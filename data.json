@@ -1,4 +1,3 @@
-[
-    "@ABC",
-    "@DEF"
-]
+{
+    "usernames": ["existing_username1", "existing_username2"]
+}
